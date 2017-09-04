@@ -8,3 +8,4 @@ y = [1, 4, 9, 16, 25]
 pl.plot (x,y)
 # Guardar la grafica en formato png
 pl.savefig('temp1.png')
+pl.show()
